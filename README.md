@@ -1,5 +1,11 @@
 # nvim
 
+<img width="2448" height="1378" alt="image" src="https://github.com/user-attachments/assets/2e3ef7ac-2db6-4083-8b45-8fd1655918ba" />
+
+<img width="2448" height="1378" alt="image" src="https://github.com/user-attachments/assets/32435e10-5643-414d-8a01-8fbc8a830d6b" />
+
+
+
 > Configuração pessoal do Neovim baseada em [LazyVim](https://lazyvim.org), com foco em desenvolvimento multi-linguagem, UI polida e fluxo de trabalho eficiente.
 
 ## Estrutura
